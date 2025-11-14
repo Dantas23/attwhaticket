@@ -1,5 +1,7 @@
 # 📝 Log de Versões
 
+## Em atualização...
+
 ## 🚀 Versão 6.3.5.0 - 11/11/2025
 🚀 Atualizações – API v7.0.0-rc.6
 ✨ Gemini (Beta)
